@@ -14,6 +14,8 @@
         "func-names": ["error", "as-needed"],
         "linebreak-style": ["off"],
         "react/jsx-one-expression-per-line": "off",
+        "react/jsx-no-undef": "warn",
+        "react/prop-types": "warn",
     },
     "globals": {
         "window": true,
