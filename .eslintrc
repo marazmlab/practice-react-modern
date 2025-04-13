@@ -16,6 +16,8 @@
         "react/jsx-one-expression-per-line": "off",
         "react/jsx-no-undef": "warn",
         "react/prop-types": "warn",
+        "quotes": ["error", "single"],
+        "no-console": "off",
     },
     "globals": {
         "window": true,
